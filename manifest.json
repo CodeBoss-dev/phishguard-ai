@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "PhishGuard AI",
+  "version": "1.0",
+  "description": "Analyzes the current page for phishing threats using PhishGuard AI.",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "host_permissions": [
+    "http://127.0.0.1:5000/*"
+  ]
+}
+
