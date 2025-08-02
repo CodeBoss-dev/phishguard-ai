@@ -1,5 +1,7 @@
 # PhishGuard AI 🛡️
 
+**NOTE: This is the first version of this project. Thus, it is subjected to cheange overtime**
+
 **A Multi-Vector Phishing Analysis Engine using Heuristics and Generative AI.**
 
 PhishGuard AI is an intelligent tool that analyzes a given URL for phishing threats. It combines traditional, rule-based heuristic checks with advanced, AI-driven analysis of webpage content to generate a real-time, comprehensive risk score.
